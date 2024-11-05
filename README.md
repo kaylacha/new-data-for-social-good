@@ -38,6 +38,7 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 
 ![UML Diagram for my project](nameOfImageFileHere.png) 
 
+
 ## Description 
 
 Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
